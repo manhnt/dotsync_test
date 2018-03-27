@@ -329,3 +329,4 @@ if [ -f ~/.bash_aliases ]; then
 fi
 
 
+alias mconfig='/usr/bin/git --git-dir=/home/manh/.cfg --work-tre=/home/manh
